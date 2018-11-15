@@ -3,7 +3,8 @@ Change history
 
 1.1.0 (2018-11-01)
 ------------------
-* Name change: uuid_msgs -> unique_identifier_msgs
+* Renamed (match c++/python package names): uuid_msgs -> unique_identifier_msgs
+* Renamed (exact semantic): UniqueID.msg -> UUID.msg
 
 1.0.4 (2014-04-30)
 ------------------
