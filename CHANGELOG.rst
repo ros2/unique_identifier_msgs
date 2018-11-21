@@ -1,8 +1,8 @@
 Change history
 ==============
 
-Forthcoming
------------
+2.0.0 (2018-11-21)
+------------------
 
 * Migrating from its old (language mixed) repository
 
