@@ -1,6 +1,20 @@
 Change history
 ==============
 
+Forthcoming
+-----------
+
+* Migrating from its old (language mixed) repository
+
+  Old Repo: https://github.com/ros-geographic-info/unique_identifier
+
+  Name Change: uuid_msgs -> unique_identifier_msgs
+
+  The name change is to line it up with the names of the langauge specific wrappers that will exist around this message artifact.
+  As this exactly describes the semantic meaning of the message (a UUID is defined as exactly a 128 bit unique identifier).
+* Dropped std_msgs dependency
+* Update maintainer
+
 1.1.0 (2018-11-01)
 ------------------
 * Renamed (match c++/python package names): uuid_msgs -> unique_identifier_msgs
