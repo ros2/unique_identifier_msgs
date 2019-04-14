@@ -1,6 +1,11 @@
 Change history
 ==============
 
+2.1.0 (2019-04-14)
+------------------
+* Added mapping rule for ros1_bridge (`#3 <https://github.com/ros2/unique_identifier_msgs/issues/3>`_)
+* Contributors: Paul Bovbel
+
 2.0.0 (2018-11-21)
 ------------------
 
