@@ -8,9 +8,9 @@
     ROS messages for universally unique identifiers.
   </description>
   <maintainer email="jacob@openrobotics.org">Jacob Perron</maintainer>
-  <author>Jack O'Quin</author>
   <license>BSD</license>
   <url>http://ros.org/wiki/unique_identifier_msgs</url>
+  <author>Jack O'Quin</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
