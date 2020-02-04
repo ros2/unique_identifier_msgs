@@ -8,15 +8,18 @@
     ROS messages for universally unique identifiers.
   </description>
   <maintainer email="jacob@openrobotics.org">Jacob Perron</maintainer>
-  <author>Jack O'Quin</author>
   <license>BSD</license>
   <url>http://ros.org/wiki/unique_identifier_msgs</url>
+  <author>Jack O'Quin</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
   <buildtool_depend>rosidl_default_generators</buildtool_depend>
 
   <exec_depend>rosidl_default_runtime</exec_depend>
+
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
 
   <member_of_group>rosidl_interface_packages</member_of_group>
 
