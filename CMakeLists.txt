@@ -13,6 +13,8 @@ endif()
 
 find_package(ament_cmake REQUIRED)
 find_package(rosidl_default_generators REQUIRED)
+find_package(rosidl_default_runtime REQUIRED)
+include_directories(${rosidl_default_runtime_INCLUDE_DIRS})
 
 set(msg_files
   "msg/UUID.msg"
