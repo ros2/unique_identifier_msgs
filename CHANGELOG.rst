@@ -1,6 +1,11 @@
 Change history
 ==============
 
+2.1.1 (2020-04-25)
+------------------
+* Enable linter tests on unique_identifier_msgs (`#5 <https://github.com/ros2/unique_identifier_msgs/issues/5>`_)
+* Contributors: Jorge Perez
+
 2.1.0 (2019-04-14)
 ------------------
 * Added mapping rule for ros1_bridge (`#3 <https://github.com/ros2/unique_identifier_msgs/issues/3>`_)
