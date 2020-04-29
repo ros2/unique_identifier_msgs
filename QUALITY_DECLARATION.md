@@ -39,7 +39,7 @@ This package requires that all changes occur through a pull request.
 
 ### Contributor Origin [2.ii]
 
-This package does not yet currently have a confirmation of contributor origin policy.
+This package uses DCO as its confirmation of contributor origin policy. More information can be found in [CONTRIBUTING](CONTRIBUTING.md).
 
 ### Peer Review Policy [2.iii]
 
@@ -66,7 +66,7 @@ New messages and services require their own documentation in order to be added.
 
 ### License [3.iii]
 
-The license for `unique_identifier_msgs` is Apache 2.0, the type is declared in the [package.xml](package.xml) manifest file, and a full copy of the license is in the repository level [LICENSE](LICENSE) file.
+The license for `unique_identifier_msgs` is the BSD 3-Clause license, the type is declared in the [package.xml](package.xml) manifest file, and a full copy of the license is in the repository level [LICENSE](LICENSE) file.
 
 There are no source files that are currently copyrighted in this package so files are not checked for abbreviated license statements.
 
