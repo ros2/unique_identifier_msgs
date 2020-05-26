@@ -1,6 +1,12 @@
 Change history
 ==============
 
+Forthcoming
+-----------
+* Change Contributing.md to match linter template (`#10 <https://github.com/ros2/unique_identifier_msgs/issues/10>`_)
+* Add README and QUALITY_DECLARATION (`#8 <https://github.com/ros2/unique_identifier_msgs/issues/8>`_)
+* Contributors: Jorge Perez, brawner
+
 2.1.1 (2020-04-25)
 ------------------
 * Enable linter tests on unique_identifier_msgs (`#5 <https://github.com/ros2/unique_identifier_msgs/issues/5>`_)
