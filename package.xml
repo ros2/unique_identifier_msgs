@@ -12,11 +12,14 @@
   <url>http://ros.org/wiki/unique_identifier_msgs</url>
   <author>Jack O'Quin</author>
 
+  <build_depend>std_msgs</build_depend>
+
   <buildtool_depend>ament_cmake</buildtool_depend>
 
   <buildtool_depend>rosidl_default_generators</buildtool_depend>
 
   <exec_depend>rosidl_default_runtime</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
