@@ -1,8 +1,8 @@
 Change history
 ==============
 
-Forthcoming
------------
+2.2.0 (2020-12-08)
+------------------
 * Update QD to QL 1 (`#17 <https://github.com/ros2/unique_identifier_msgs/issues/17>`_)
 * Update Quality Declaration to QL2. (`#15 <https://github.com/ros2/unique_identifier_msgs/issues/15>`_)
 * Update Quality level to level 3 (`#13 <https://github.com/ros2/unique_identifier_msgs/issues/13>`_)
