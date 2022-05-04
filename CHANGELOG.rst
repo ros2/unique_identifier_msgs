@@ -1,6 +1,9 @@
 Change history
 ==============
 
+2.3.0 (2022-05-04)
+------------------
+
 2.2.1 (2021-04-06)
 ------------------
 * Change index.ros.org -> docs.ros.org (`#21 <https://github.com/ros2/unique_identifier_msgs/issues/21>`_)
