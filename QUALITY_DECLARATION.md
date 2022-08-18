@@ -89,7 +89,7 @@ Results of the nightly linter tests can be found [here](http://build.ros2.org/vi
 ### Direct Runtime ROS Dependencies [5.i]/[5.ii]
 
 `unique_identifier_msgs` has the following runtime ROS dependency, which is **Quality Level 1**:
-* `rosidl_default_runtime` [QUALITY DECLARATION](https://github.com/ros2/rosidl_defaults/tree/master/rosidl_default_runtime/QUALITY_DECLARATION.md)
+* `rosidl_core_runtime` [QUALITY DECLARATION](https://github.com/ros2/rosidl_core/tree/master/rosidl_core_runtime/QUALITY_DECLARATION.md)
 
 It has several "buildtool" dependencies, which do not affect the resulting quality of the package, because they do not contribute to the public library API.
 
@@ -104,7 +104,6 @@ It has several "buildtool" dependencies, which do not affect the resulting quali
 Currently nightly results can be seen here:
 * [linux-aarch64_release](https://ci.ros2.org/view/nightly/job/nightly_linux-aarch64_release/lastBuild/testReport/unique_identifier_msgs/)
 * [linux_release](https://ci.ros2.org/view/nightly/job/nightly_linux_release/lastBuild/testReport/unique_identifier_msgs/)
-* [mac_osx_release](https://ci.ros2.org/view/nightly/job/nightly_osx_release/lastBuild/testReport/unique_identifier_msgs/)
 * [windows_release](https://ci.ros2.org/view/nightly/job/nightly_win_rel/lastBuild/testReport/unique_identifier_msgs/)
 
 # Security [7]

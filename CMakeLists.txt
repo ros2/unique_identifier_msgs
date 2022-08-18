@@ -12,7 +12,9 @@ if(CMAKE_COMPILER_IS_GNUCXX OR CMAKE_CXX_COMPILER_ID MATCHES "Clang")
 endif()
 
 find_package(ament_cmake REQUIRED)
-find_package(rosidl_default_generators REQUIRED)
+# Depend on "core" generators instead of "default" generators
+# because ROS actions depend on this package
+find_package(rosidl_core_generators REQUIRED)
 
 set(msg_files
   "msg/UUID.msg"
@@ -20,7 +22,7 @@ set(msg_files
 
 rosidl_generate_interfaces(${PROJECT_NAME} ${msg_files})
 
-ament_export_dependencies(rosidl_default_runtime)
+ament_export_dependencies(rosidl_core_runtime)
 
 if(BUILD_TESTING)
   find_package(ament_lint_auto REQUIRED)
