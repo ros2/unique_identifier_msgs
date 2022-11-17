@@ -7,9 +7,13 @@
   <description>
     ROS messages for universally unique identifiers.
   </description>
-  <maintainer email="brandon@openrobotics.org">Brandon Ong</maintainer>
+
+  <maintainer email="geoff@openrobotics.org">Geoffrey Biggs</maintainer>
+
   <license>BSD</license>
   <url>http://ros.org/wiki/unique_identifier_msgs</url>
+
+  <author email="brandon@openrobotics.org">Brandon Ong</author>
   <author>Jack O'Quin</author>
   <author email="jacob@openrobotics.org">Jacob Perron</author>
 
