@@ -1,6 +1,11 @@
 Change history
 ==============
 
+Forthcoming
+-----------
+* [rolling] Update maintainers - 2022-11-07 (`#26 <https://github.com/ros2/unique_identifier_msgs/issues/26>`_)
+* Contributors: Audrow Nash
+
 2.3.1 (2022-09-09)
 ------------------
 * Depend on rosidl_core instead of rosidl_defaults (`#24 <https://github.com/ros2/unique_identifier_msgs/issues/24>`_)
