@@ -1,8 +1,8 @@
 Change history
 ==============
 
-Forthcoming
------------
+2.3.2 (2023-02-13)
+------------------
 * [rolling] Update maintainers - 2022-11-07 (`#26 <https://github.com/ros2/unique_identifier_msgs/issues/26>`_)
 * Contributors: Audrow Nash
 
