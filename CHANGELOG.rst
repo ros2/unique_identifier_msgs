@@ -1,6 +1,11 @@
 Change history
 ==============
 
+Forthcoming
+-----------
+* Update to C++17 (`#27 <https://github.com/ros2/unique_identifier_msgs/issues/27>`_)
+* Contributors: Chris Lalancette
+
 2.4.0 (2023-04-28)
 ------------------
 
