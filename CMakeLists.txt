@@ -34,7 +34,7 @@ endif()
 
 if(cpp_typesupport_target)
   list(INSERT CMAKE_MODULE_PATH 0 "${CMAKE_CURRENT_SOURCE_DIR}/cmake/Modules")
-  find_package(uuid REQUIRED)
+  find_package(UUID REQUIRED)
   add_library(${PROJECT_NAME}_library INTERFACE)
   target_include_directories(${PROJECT_NAME}_library INTERFACE
   "$<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>"
@@ -59,7 +59,7 @@ if(cpp_typesupport_target)
   # Export modern CMake targets
   ament_export_targets(export_${PROJECT_NAME})
 
-  ament_export_dependencies(uuid)
+  ament_export_dependencies(UUID)
 
   if(BUILD_TESTING)
     ament_add_gtest(test_${PROJECT_NAME}
