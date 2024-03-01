@@ -22,6 +22,11 @@
 
 #include "unique_identifier_msgs/msg/uuid.hpp"
 
+#ifndef __APPLE__
+typedef char uuid_string_t__[37];
+#define uuid_string_t uuid_string_t__
+#endif
+
 namespace unique_identifier_msgs
 {
 /** @brief Create UUID object from UUID ROS message.
