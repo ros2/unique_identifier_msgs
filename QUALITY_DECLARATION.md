@@ -39,7 +39,8 @@ This package requires that all changes occur through a pull request.
 
 ### Contributor Origin [2.ii]
 
-This package uses DCO as its confirmation of contributor origin policy. More information can be found in [CONTRIBUTING](CONTRIBUTING.md).
+This package uses DCO as its confirmation of contributor origin policy.
+More information can be found in [CONTRIBUTING](CONTRIBUTING.md).
 
 ### Peer Review Policy [2.iii]
 
@@ -89,7 +90,7 @@ Results of the nightly linter tests can be found [here](http://build.ros2.org/vi
 ### Direct Runtime ROS Dependencies [5.i]/[5.ii]
 
 `unique_identifier_msgs` has the following runtime ROS dependency, which is **Quality Level 1**:
-* `rosidl_core_runtime` [QUALITY DECLARATION](https://github.com/ros2/rosidl_core/tree/master/rosidl_core_runtime/QUALITY_DECLARATION.md)
+* `rosidl_core_runtime` [QUALITY DECLARATION](https://github.com/ros2/rosidl_core/tree/rolling/rosidl_core_runtime/QUALITY_DECLARATION.md)
 
 It has several "buildtool" dependencies, which do not affect the resulting quality of the package, because they do not contribute to the public library API.
 
