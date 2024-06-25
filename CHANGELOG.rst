@@ -1,6 +1,11 @@
 Change history
 ==============
 
+Forthcoming
+-----------
+* Add missing build_export_depend on rosidl_core_runtime (`#30 <https://github.com/ros2/unique_identifier_msgs/issues/30>`_)
+* Contributors: Scott K Logan
+
 2.6.0 (2024-04-29)
 ------------------
 * Update quality declaration doc (`#29 <https://github.com/ros2/unique_identifier_msgs/issues/29>`_)
