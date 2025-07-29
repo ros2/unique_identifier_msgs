@@ -1,6 +1,11 @@
 Change history
 ==============
 
+Forthcoming
+-----------
+* fix cmake deprecation (`#33 <https://github.com/ros2/unique_identifier_msgs/issues/33>`_)
+* Contributors: mosfet80
+
 2.8.0 (2025-04-25)
 ------------------
 * Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#31 <https://github.com/ros2/unique_identifier_msgs/issues/31>`_)
