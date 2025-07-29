@@ -1,8 +1,8 @@
 Change history
 ==============
 
-Forthcoming
------------
+2.8.1 (2025-07-29)
+------------------
 * fix cmake deprecation (`#33 <https://github.com/ros2/unique_identifier_msgs/issues/33>`_)
 * Contributors: mosfet80
 
