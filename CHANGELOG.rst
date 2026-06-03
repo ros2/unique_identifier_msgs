@@ -1,6 +1,15 @@
 Change history
 ==============
 
+Forthcoming
+-----------
+* Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#31 <https://github.com/ros2/unique_identifier_msgs/issues/31>`_) (`#32 <https://github.com/ros2/unique_identifier_msgs/issues/32>`_)
+  They are both outdated and both no longer serving their
+  intended purpose.
+  (cherry picked from commit 2640ac258049686f27bb3f1d43ce558e942ae8e8)
+  Co-authored-by: Chris Lalancette <clalancette@gmail.com>
+* Contributors: mergify[bot]
+
 2.5.0 (2023-08-21)
 ------------------
 * Update to C++17 (`#27 <https://github.com/ros2/unique_identifier_msgs/issues/27>`_)
