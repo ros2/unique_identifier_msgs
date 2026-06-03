@@ -1,8 +1,8 @@
 Change history
 ==============
 
-Forthcoming
------------
+2.5.1 (2026-06-03)
+------------------
 * Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#31 <https://github.com/ros2/unique_identifier_msgs/issues/31>`_) (`#32 <https://github.com/ros2/unique_identifier_msgs/issues/32>`_)
   They are both outdated and both no longer serving their
   intended purpose.
